@@ -1,10 +1,13 @@
+
+# Home Page
+
+This is the home page of the wiki;
+
+[[Team handbook]]
+[[Procedures]]
+[[About us]]
+
+
 ---
-title: Home
----
 
-# My Wiki
 
-Welcome to my company wiki!
-
-[[First Page]]
-[[Second Page]]
